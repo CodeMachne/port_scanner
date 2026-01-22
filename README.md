@@ -1,6 +1,6 @@
 
 ````md
-# ⚔️ SentinelScan — CEH Port Scanner for Kali Linux
+#⚔️ SentinelScan — CEH Port Scanner for Kali Linux
 
 SentinelScan is a **professional-grade port scanning tool** designed for **Certified Ethical Hacker (CEH)** training, **Kali Linux penetration testing**, and **authorized security assessments**.
 
@@ -8,7 +8,7 @@ It assists security professionals in identifying exposed ports and services duri
 
 ---
 
-## 📌 Overview
+##📌 Overview
 
 Port scanning is a foundational activity in offensive security.  
 SentinelScan is built to simulate real-world reconnaissance and scanning techniques used by penetration testers before exploitation.
